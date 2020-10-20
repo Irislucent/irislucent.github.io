@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Yuxuan Wu&#39;s Homepage</title>
-    <link>http://www.boa-sahiro.one/about/</link>
+    <link>/about/</link>
     <description>Recent content in Abouts on Yuxuan Wu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Aug 2020 18:45:57 +0800</lastBuildDate>
     
-	<atom:link href="http://www.boa-sahiro.one/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.boa-sahiro.one/about/about/</link>
+      <link>/about/about/</link>
       <pubDate>Fri, 28 Aug 2020 18:45:57 +0800</pubDate>
       
-      <guid>http://www.boa-sahiro.one/about/about/</guid>
+      <guid>/about/about/</guid>
       <description>Thank you for visiting my site. My name is Yuxuan Wu.
 I&amp;rsquo;m an senior student in Shanghai Jiao Tong University majoring in Information Engineering, and also a musician. Deeply interested in music technology research and musichology, I&amp;rsquo;m planning to pursue a postgrad degree in a related field. My graduation project focuses on the smoothing technology when joining TTS and recorded vocals, under the guidance of Prof. Jie Zhu. Since July 2019 I&amp;rsquo;ve been a research intern of the MIR Lab of Fudan University led by Prof.</description>
     </item>
