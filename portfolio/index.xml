@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Yuxuan Wu&#39;s Homepage</title>
-    <link>/portfolio/</link>
+    <link>http://www.boa-sahiro.one/portfolio/</link>
     <description>Recent content in Portfolios on Yuxuan Wu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Aug 2020 18:46:16 +0800</lastBuildDate>
     
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.boa-sahiro.one/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>/portfolio/first/</link>
+      <link>http://www.boa-sahiro.one/portfolio/first/</link>
       <pubDate>Fri, 28 Aug 2020 18:46:16 +0800</pubDate>
       
-      <guid>/portfolio/first/</guid>
+      <guid>http://www.boa-sahiro.one/portfolio/first/</guid>
       <description>hello world </description>
     </item>
     
