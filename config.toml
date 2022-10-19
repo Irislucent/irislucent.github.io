@@ -15,7 +15,7 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "zh"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 # 是否复数化列表页面的标题
@@ -40,7 +40,7 @@ enableRobotsTXT = true
 paginate = 5
 
 # URL 相关
-disablePathToLower = false
+disablePathToLower = true
 relativeURLs = false
 uglyURLs = false
 
@@ -96,17 +96,21 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "Yuxuan Wu"
+    # 昵称
+    nickname = "Irislucent"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "yuxuanw2@andrew.cmu.edu"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    # motto = "MS·CMU Music Tech"
+    motto = "Sing to the moon and the stars will shine"
+    # motto = "Give life back to music"
     # 头像
-    avatar = "/icons/apple-touch-icon.png"
+    avatar = "/images/hellobike_portrait.jpg"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
-    # 推特
-    twitter = "reuixiy"
+    website = ""
+    # Github
+    github = "https://github.com/Irislucent"
 
 # 相关文章
 [related]
@@ -189,42 +193,43 @@ uglyURLs = false
 
 [menu]
     ## 菜单栏
-    # [[menu.main]]
-    #     pageref = "/"
-    #     name = "首页"
-    #     weight = 1
-    #     pre = "internal"
-    #     post = "home"
+    # TODO: find some icons for these menu entries
     [[menu.main]]
-        pageref = "/posts/"
+        url = "/"
         name = "Home"
+        weight = 1
+        pre = "internal"
+        # post = "archive"
+    [[menu.main]]
+        url = "/projects/"
+        name = "Projects"
         weight = 2
         pre = "internal"
-        post = "archive"
+        # post = "th"
     [[menu.main]]
-        pageref = "/categories/"
-        name = "分类"
+        url = "/experiences/"
+        name = "Experiences"
         weight = 3
         pre = "internal"
-        post = "th"
+        # post = "th"
     [[menu.main]]
-        pageref = "/tags/"
-        name = "标签"
+        url = "/music/"
+        name = "Music"
         weight = 4
         pre = "internal"
-        post = "tags"
+        # post = "tags"
     [[menu.main]]
-        pageref = "/about/"
-        name = "关于"
+        url = "/about/"
+        name = "About"
         weight = 5
         pre = "internal"
-        post = "user-circle"
+        # post = "user-circle"
     [[menu.main]]
         weight = 6
         identifier = "theme-switcher"
-    [[menu.main]]
-        weight = 7
-        identifier = "lang-switcher"
+    # [[menu.main]]
+    #     weight = 7
+    #     identifier = "lang-switcher"
     # [[menu.main]]
     #     weight = 8
     #     identifier = "search"
@@ -338,16 +343,16 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
+    siteDescription = "YuxuanWu"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2020-10-03T20:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    siteTwitter = ""
     # 说明：用于 Twitter Cards
 
 
@@ -803,7 +808,7 @@ uglyURLs = false
     # 文章目录
 
     # 是否开启（全局设置）
-    enableTOC = false
+    enableTOC = true
     # 说明：文章的 Front Matter 中的 `toc`
     #      的优先级高于此处
 
@@ -932,7 +937,7 @@ uglyURLs = false
     #      SVG，则可留空（""）品牌栏字体。
 
     # 品牌栏
-    fontFamilySiteBrand = ""
+    fontFamilySiteBrand = "'Cinzel Decorative', 'EB Garamond', cursive"
     # 菜单栏
     fontFamilyMenu = ""
     # 文章标题、文章副标题、列表标题、列表的年份和月份标题、相关文章标题、文章上下篇标题、表格的表头、定义列表中的术语
@@ -953,7 +958,8 @@ uglyURLs = false
     fontFamilyBody = "'EB Garamond', 'Noto Serif SC', serif"
 
     # 网络字体链接
-    fontsLink = "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    fontsLink = "https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Courier+Prime"
+    # fontsLink = "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Noto+Serif+SC:wght@400;500;700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap"
     # 说明：要想读者一定体验到你设置的字体，最好
     #      采用网络字体。MemE 主题目前仅支持
     #      Google Fonts 的链接，请前往
@@ -963,7 +969,7 @@ uglyURLs = false
     ######################################
     ## 字号（单位：px）
 
-    fontSize = 16
+    fontSize = 18
 
     ######################################
     ## 制表符的宽度
@@ -1118,7 +1124,7 @@ uglyURLs = false
     # 文章分享
 
     # 是否开启
-    enablePostShare = true
+    enablePostShare = false
 
     # 是否显示（全局设置）
     displayPostShare = true

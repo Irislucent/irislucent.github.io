@@ -1,0 +1,158 @@
+<main class="main single" id="main">
+    <div class="sidebar">
+        <div class="info">
+            <div class="avatar" style="border-radius:0%; overflow:hidden;">
+                <!-- TODO get the circle mask done above -->
+                <img src="{{ .Site.Author.avatar }}" alt="portrait">
+            </div>
+            <div class="motto">
+                <span class="myname">{{ .Site.Author.name }}</span><br/>
+                <span>{{ .Site.Author.motto }}</span><br/>
+            </div>
+            <div class="me" id="me">
+                <a class="myicon" href="{{ .Site.Author.github }}" target="_blank">
+                    <span id="github" class="icon"></span>
+                    <span class="github-info">Github</span>
+                </a>
+                <a class="myicon" href="mailto:{{ .Site.Author.email }}" target="_blank">
+                    <span id="email" class="icon"></span>
+                    <span>Email</span>
+                </a>
+                <!-- <a class="myicon linkedin" href="{{ .Site.Author.linkedin }}" target="_blank">
+                    <span id="linkedin" class="icon"></span>
+                    <span id="linkedin-info">Linkedin</span>
+                </a> -->
+                <script>
+                    let github = document.getElementById('github');
+                    github.innerHTML = '{{ .Site.Data.SVG.github }}';
+                    let email = document.getElementById('email');
+                    email.innerHTML = '{{ .Site.Data.SVG.email }}';
+                    let acwing = document.getElementById('acwing');
+                    acwing.innerHTML = '{{ .Site.Data.SVG.home }}';
+                    let codeforces = document.getElementById('codeforces');
+                    codeforces.innerHTML = '{{ .Site.Data.SVG.codeforces }}';
+                </script>
+            </div>
+        </div>
+        <div class="new-toc">
+            {{ $enableTOC := .Params.toc | default .Site.Params.enableTOC -}}
+                {{- if $enableTOC -}}
+                    {{- partial "utils/toc.html" . -}}
+                {{- end -}}
+        </div>
+    </div>
+
+    <div class="main-inner">
+
+        {{ $attrs := partial "utils/data-attributes.html" . }}
+
+        <article class="content post h-entry"
+        {{- if $attrs.smallCaps }} data-small-caps="true"{{ end }}
+        {{- with $attrs.align }} data-align="{{ . }}"{{ end }}
+        {{- with $attrs.type }} data-type="{{ . }}"{{ end }}
+        {{- with $attrs.layout }} data-layout="{{ . }}"{{ end }}
+        {{- if $attrs.indent }} data-indent="true"{{ end }}
+        {{- if $attrs.tocNum }} data-toc-num="true"{{ end }}>
+
+            {{ if .Site.Params.displayPostTitle }}
+                {{ with .Params.title }}
+                    {{- $raw := . -}}
+                    <h1 class="post-title p-name">{{ (partial "utils/title.html" (dict "$" $ "title" $.Title)).htmlTitle }}</h1>
+                {{ end }}
+            {{ end }}
+
+            {{ with .Params.subtitle }}
+                {{- $raw := . -}}
+                <div class="post-subtitle p-name">{{ partial "utils/markdownify.html" (dict "$" $ "raw" $raw "isContent" false) }}</div>
+            {{ end }}
+
+            {{ if .Site.Params.displayPostDescription }}
+                {{ with .Params.description }}
+                    {{- $raw := . -}}
+                    <div class="post-description p-summary">{{ partial "utils/markdownify.html" (dict "$" $ "raw" $raw "isContent" false) }}</div>
+                {{ end }}
+            {{ end }}
+
+            {{ if .Params.meta | default .Site.Params.enablePostMeta }}
+                {{ partial "components/post-meta.html" (dict "$" . "isHome" false) }}
+            {{ end }}
+
+            <div class="post-body e-content">
+                {{ partial "utils/content.html" . }}
+            </div>
+
+            {{ partial "components/post-copyright.html" . }}
+
+        </article>
+
+        {{ if and .Site.Params.enableGoogleAdUnits (eq hugo.Environment "production") -}}
+            {{ partial "third-party/google-adsense-unit.html" . }}
+        {{- end }}
+
+        {{ partial "components/post-updated-badge.html" . }}
+
+        {{ partial "components/post-gitinfo.html" . }}
+
+        {{ partial "components/post-share.html" . }}
+
+        {{ partial "components/related-posts.html" . }}
+
+        {{ partial "components/post-tags.html" . }}
+
+        {{ partial "components/minimal-footer.html" . }}
+
+        {{ partial "components/minimal-footer-about.html" . }}
+
+        {{ partial "components/post-nav.html" . }}
+
+        {{ partial "components/comments.html" . }}
+
+    </div>
+
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        const tocHeight = $('.new-toc .toc').height();
+        const tocAutoScroll = () => {
+            let height = window.innerHeight; 
+            let $toc = $('.new-toc .toc');
+            if (tocHeight > height - 200) {
+                $toc.css('height', height - 200);
+            }
+        }
+        const catalogTrack = () => {
+            let $currentHeading = $('h1');
+            for (let heading of $('h1, h2, h3, h4, h5, h6')) {
+                const $heading = $(heading);
+                if ($heading.offset().top - $(document).scrollTop() > 150) break;
+                $currentHeading = $heading;
+            }
+            const anchorId = $currentHeading.attr('id');
+            // console.log(anchorId);
+            let $toc = $('.new-toc .toc');
+            let $a = $toc.find(`a[href="#${anchorId}"]`)  // 找到href='#'+anchorId的a标签元素
+            // console.log($a[0]);
+            if (!$a.hasClass('a-active')) {  // 如何当前a标签没有被高亮
+                $('.a-active').removeClass('a-active');  // 取消高亮原来的
+                $a.addClass('a-active');  // 高亮新的
+            }
+            // 目录自动滚动
+            if ($a.length > 0) {
+                $('.toc').scrollTop($a[0].offsetTop - 300);
+            } else {
+                $('.toc').scrollTop(0);
+            }
+        };
+        $(() => {
+            tocAutoScroll();
+            catalogTrack();
+        });
+        $(document).scroll(() => {
+            catalogTrack();
+        });
+        $(window).resize(() => {
+            setTimeout(() => {
+               tocAutoScroll();
+            }, 100);
+        });
+    </script>
+</main>
