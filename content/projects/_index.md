@@ -103,7 +103,7 @@ draft: false
     <div class="card-content">
         <h1>Project Ming</h1>
         <div class="subtitle"></div>
-        <p>Project Ming is a Cycling 74 Max/MSP program that can simulate the sound ambience in ancient Chinese cities. By moving your mouse on the map and clicking different keys on the keyboard, you can experience through the colorful and realistic soundscape in ancient China. It was completed during my time at Berkeley summer school in 2019, and a variety of synthesizing techniques were adopted.</p>
+        <p>Project Ming is a Cycling 74 Max/MSP program that can simulate the sound ambience in ancient Chinese cities. By moving your mouse on the map and pressing different keys on the keyboard, you can experience through the colorful and realistic soundscape in ancient China. It was completed during my time at Berkeley summer school in 2019, and a variety of synthesizing techniques were adopted.</p>
         <div class="card-details">
         <div class="card-details-inner">
             <div class="read-more">
