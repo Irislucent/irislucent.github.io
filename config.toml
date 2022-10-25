@@ -218,14 +218,14 @@ uglyURLs = false
         weight = 4
         pre = "internal"
         # post = "tags"
+    # [[menu.main]]
+    #     url = "/" # TODO: Add new "about" page. Or consider adding a "news" page.
+    #     name = "About"
+    #     weight = 5
+    #     pre = "internal"
+    #     # post = "user-circle"
     [[menu.main]]
-        url = "/about/"
-        name = "About"
         weight = 5
-        pre = "internal"
-        # post = "user-circle"
-    [[menu.main]]
-        weight = 6
         identifier = "theme-switcher"
     # [[menu.main]]
     #     weight = 7

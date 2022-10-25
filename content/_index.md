@@ -9,12 +9,12 @@ Hello there - welcome to my personal webpage!
 
 My name is Yuxuan Wu.
 I'm a second-year master student majoring in Music and Technology at Carnegie Mellon University.
-My advisor is Professor Roger Dannenberg.
-Before I entered CMU, I completed my Bachelor's degree in information engineering in Shanghai Jiao Tong University, where I conducted research on speech synthesis with Professor Jie Zhu.
+My advisor is Professor [Roger Dannenberg](http://www.cs.cmu.edu/~rbd/).
+Before I entered CMU, I completed my Bachelor's degree in information engineering in Shanghai Jiao Tong University, where I conducted research on speech synthesis with Professor [Jie Zhu](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=47&infoid=66&flag=66). 
 I've had two internships in industry, both related to music generaton, at SA and SAMI team in ByteDance respectively.
 My research interest lies in the field of computer music, including AI music generation, music information retrieval and music representation learning. Currently I'm working on analysing and predicting the composing techniques of pop piano accompaniment, hoping that it can help improve modelling the underlying structures in polyphonic music.
 
-As a musician, I compose and produce various types of music. I started playing the piano at 7, and started writing songs when I was 13. Over the years I've published part of my works in the name of BowOfAtlas.
+As a musician, I compose and produce various types of music. I started playing the piano at 7, and started writing songs when I was 13. Over the years I've published some of my works in the name of [*BowOfAtlas*](./music/#BowOfAtlas).
 
 
 <!--
@@ -25,4 +25,4 @@ If you're interested, you can view some of my music works in the name of BowOfAt
 By the way I'm proud to stand as a MtF. As I got some vital help and care from those in China when I was frustrated and confused the most, I pay attention to and am willing to attend LGBTQ+ nonprofit organizations because millions of brothers and sisters are still there in need, and that we should stand together to make the world a more diverse and colorful place.
 -->
 
-[Curriculum Vitae]("./cv/Yuxuan_Wu_CV")
+<a href="./cv/Yuxuan_Wu_CV.pdf"><font color=#f06292>Curriculum Vitae</font></a>

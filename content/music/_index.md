@@ -26,9 +26,25 @@ Learn more about our human-AI interation process in creating this song at our [*
 ## Music for SJTU
 During my undergrad years (2017-2021), I wrote several songs for school galas as a musician of **SJTU Art Center**.
 
-- 《梦一夏》(\<Neverland\>) written for Welcome Gala, Oct 2018
-<iframe src="//player.bilibili.com/player.html?aid=33595295&bvid=BV1vt411f7vS&cid=58816027&page=1" width="48%" height="200" scrolling="no" frameborder="no" scrolling="no" border="0" framespacing="0" allowfullscreen="true"> </iframe>
+- [Follow our podcast at NetEase Cloud Music!](http://music.163.com/radio?id=526839633)
 
-## Music for Hucang
+
 ## BowOfAtlas
+I publish music in the name of *BowOfAtlas* starting from 2014.
+- [Spotify Page](https://open.spotify.com/artist/7u6TOEKFO20LfGibgidFRV?si=44gD6Im0Tai8xL1sFXrRVw&utm_source=copy-link)
+- [Apple Music Page](https://music.apple.com/us/artist/bowofatlas/1474860092)
+- [QQ Music Page](https://c.y.qq.com/base/fcgi-bin/u?__=kyfI2cIedHE3)
+- [NetEase Music Page](https://music.163.com/#/artist?id=1131005)
+
+Recent Mini Albums:
+<table>
+    <tr>
+        <td><img src="eb.jpg" width=300 style="margin:0; border:0;" /></td>
+        <td><img src="ptp.jpg" width=300 style="margin:0; border:0;" /></td>
+    </tr>
+    <tr>
+        <td><img src="agoc.jpg" width=300 style="margin:0; border:0;" /></td>
+        <td><img src="tcfl.jpg" width=300 style="margin:0; border:0;" /></td>
+    </tr>
+</table>
 
