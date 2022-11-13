@@ -24,7 +24,7 @@ We made it to the final list and won the **3rd place** in the end!
 Learn more about our human-AI interation process in creating this song at our [**team page**](https://www.aisongcontest.com/participants-2022/3i)!
 
 ## Music for SJTU
-During my undergrad years (2017-2021), I wrote several songs for school galas as a musician of **SJTU Art Center**.
+During my undergrad years (2017-2021), I wrote several songs for school galas as the major musician of **SJTU Art Center**.
 
 - [Follow our podcast at NetEase Cloud Music!](http://music.163.com/radio?id=526839633)
 

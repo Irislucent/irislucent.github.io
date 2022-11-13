@@ -22,7 +22,7 @@ draft: false
         <br />
         <li class="tl-node">
             <div class="tl-stamp">August, 2022 - Now</div>
-            <div class="tl-content">Teaching assistant: <i>Machine Learning for Siganl Processing</i></div>
+            <div class="tl-content">Teaching assistant: <i>Machine Learning for Signal Processing</i></div>
             <img src="mlsp_ta.jpg" width=300 style="margin:0;" />
             <div class="my-caption">Me giving a lecture about face detection, October 2022</div>
         </li>
