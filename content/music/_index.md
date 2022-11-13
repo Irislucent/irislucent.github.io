@@ -20,7 +20,7 @@ Team members include:
         title="A to I - AI Song Contest 2022" target="_blank" style="color: #cccccc; text-decoration: none;">A to I - AI
         Song Contest 2022</a></div>
 
-We made it to the final list and received the **3rd prize** in the end!  
+We made it to the final list and won the **3rd place** in the end!  
 Learn more about our human-AI interation process in creating this song at our [**team page**](https://www.aisongcontest.com/participants-2022/3i)!
 
 ## Music for SJTU
