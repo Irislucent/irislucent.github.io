@@ -15,7 +15,7 @@ I've had two internships in industry, both related to music generaton, at SA and
 My research interest lies in the field of computer music, including AI music generation, music information retrieval and music representation learning, hoping to not only promote applications of AI in music appreciation and creation, but also broaden the horizon of AI by and for humanity.
 <!-- Currently I'm working on analysing and predicting the composing techniques of pop piano accompaniment, hoping that it can help improve modelling the underlying structures in polyphonic music. -->
 
-As a musician, I compose and produce various types of music. I started playing the piano at 7, and started writing songs when I was 13. Over the years I've published some of my works in the name of [*BowOfAtlas*](./music/#BowOfAtlas).
+As a musician, I compose and produce various types of music. I started playing the piano at 7, and started writing songs when I was 13. Over the years I've published some of my works in the name of [*BowOfAtlas*](./music/#bowofatlas).
 
 
 <!--
