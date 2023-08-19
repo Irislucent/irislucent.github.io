@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Yuxuan Wu</title>
+        <link>https://irislucent.github.io/</link>
+        <description>YuxuanWu</description>
+        <generator>Hugo 0.80.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>yuxuanw2@andrew.cmu.edu (Yuxuan Wu)</managingEditor>
+        
+        
+            <webMaster>yuxuanw2@andrew.cmu.edu (Yuxuan Wu)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sat, 19 Aug 2023 18:47:09 &#43;0400</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://irislucent.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Test</title>
+                <link>https://irislucent.github.io/posts/test/</link>
+                <guid isPermaLink="true">https://irislucent.github.io/posts/test/</guid>
+                <pubDate>Mon, 03 Oct 2022 06:55:36 -0400</pubDate>
+                
+                    <author>yuxuanw2@andrew.cmu.edu (Yuxuan Wu)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h1 id=&#34;test-post-here&#34;&gt;test post here&lt;/h1&gt;
+&lt;p&gt;test text&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
