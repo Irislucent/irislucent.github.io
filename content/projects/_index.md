@@ -10,6 +10,24 @@ draft: false
 </head>
 
 
+
+<!-- ## Motif Representation Learning, Master Thesis -->
+<div class="card">
+    <div class="card-image" style="background-image: url(motif.png)"></div>
+    <div class="card-content">
+        <h1>Motif-based Music Representation Learning</h1>
+        <p>The formation of music structure heavily relies on repetitions and variations of music motifs. Understanding the manifestations and behaviors of these motifs is crucial for effective music structure analysis and high-quality automatic music composition. However, capturing music motifs' implicit nature is often challenging. In this study, we employ deep learning techniques to explore an efficacious method for learning robust representations of music motifs.</p>
+        <div class="card-details">
+        <div class="card-details-inner">
+            <div class="read-more">
+            <a class="button" href="">Building...</a>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+<br />
+
 <!-- ## The Jazz Tutor -->
 <div class="card">
     <div class="card-image" style="background-image: url(jazztutor.jpg)"></div>
@@ -28,7 +46,7 @@ draft: false
 <br />
 
 <!-- ## Expressive Performance Generation -->
-<div class="card">
+<!-- <div class="card">
     <div class="card-image" style="background-image: url(performance.jpg)"></div>
     <div class="card-content">
         <h1>Expressive Performance Generation</h1>
@@ -42,7 +60,7 @@ draft: false
         </div>
     </div>
 </div>
-<br />
+<br /> -->
 
 <!-- ## Timbre Transfer with Flexible Timbre Control  -->
 <div class="card">
@@ -53,7 +71,7 @@ draft: false
         <div class="card-details">
         <div class="card-details-inner">
             <div class="read-more">
-            <a class="button" href="">Building...</a>
+            <a class="button" href="https://ieeexplore.ieee.org/document/10096233">Paper</a>
             </div>
         </div>
         </div>

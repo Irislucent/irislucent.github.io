@@ -13,17 +13,23 @@ draft: false
 </head>
 <body>
     <ol class="timeline">
-        <br />
+        <img src="icassp2023_oral.jpg" width=250 style="margin:0;" />
+        <div class="my-caption">Me giving an oral presentation at ICASSP, June 2023</div>
         <br />
         <li class="tl-node">
-            <div class="tl-stamp">January 2023 - Now</div>
+            <div class="tl-stamp">February - August 2023</div>
+            <div class="tl-content">Research on representation learning of symbolic music motifs</div>
+        </li>
+        <br />
+        <li class="tl-node">
+            <div class="tl-stamp">January - May 2023</div>
             <div class="tl-content">Teaching assistant: <i>Introduction to Computer Music</i></div>
             <img src="icm_ta.jpg" width=300 style="margin:0;" />
             <div class="my-caption">Me giving a recitation about modulation, February 2023</div>
         </li>
         <br />
         <li class="tl-node">
-			<div class="tl-stamp">August 2022 - Now</div>
+			<div class="tl-stamp">August 2022 - April 2023</div>
 			<div class="tl-content">Research on AI jazz improvisation tutoring</div>
 		</li>
         <br />
@@ -36,7 +42,7 @@ draft: false
         <br />
         <li class="tl-node">
 			<div class="tl-stamp">May - August 2022</div>
-			<div class="tl-content">Internship at TikTok SAMI</div>
+			<div class="tl-content">Internship at TikTok SAMI team</div>
 		</li>
         <br />
         <li class="tl-node">
@@ -48,7 +54,7 @@ draft: false
         <br />
         <li class="tl-node">
 			<div class="tl-stamp">January - May 2022</div>
-			<div class="tl-content">Course project: Timbre transfer with flexible timbre control (Paper under review)</div>
+			<div class="tl-content">Research project: Timbre transfer with flexible timbre control (ICASSP 2023)</div>
 		</li>
         <br />
         <li class="tl-node">
@@ -73,9 +79,10 @@ draft: false
         <div class="tl-content">B.Eng in Information Engineering</div>
         <img src="studio_sjtu.jpg" width=300 style="margin:0;" />
         <div class="my-caption">In the studio, recording for the graduation gala, June 2021</div>
+        <br />
         <li class="tl-node">
             <div class="tl-stamp">September 2020 - June 2021</div>
-            <div class="tl-content">Bachelor thesis on speech synthesis tool</div>
+            <div class="tl-content">Bachelor thesis on a speech synthesis tool</div>
         </li>
         <br />
         <li class="tl-node">
