@@ -30,4 +30,4 @@ If you're interested, you can view some of my music works in the name of BowOfAt
 By the way I'm proud to stand as a MtF. As I got some vital help and care from those in China when I was frustrated and confused the most, I pay attention to and am willing to attend LGBTQ+ nonprofit organizations because millions of brothers and sisters are still there in need, and that we should stand together to make the world a more diverse and colorful place.
 -->
 
-<a href="./cv/Yuxuan_Wu_CV_20230926.pdf"><font color=#f06292>Curriculum Vitae</font></a>
+<a href="./cv/Yuxuan_Wu_CV_20231107.pdf"><font color=#f06292>Curriculum Vitae</font></a>
