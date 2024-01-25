@@ -19,7 +19,7 @@ My research interest lies in the field of music AI, including AI music generatio
 <!-- My research interest lies in the field of computer music, including AI music generation, music information retrieval and music representation learning, hoping to not only promote applications of AI in music appreciation and creation, but also broaden the horizon of AI by and for humanity. -->
 <!-- Currently I'm working on analysing and predicting the composing techniques of pop piano accompaniment, hoping that it can help improve modelling the underlying structures in polyphonic music. -->
 
-As a musician, I compose and produce various types of music. I started playing the piano at 7, and started writing songs at 13. Over the years I published some of my works in the name of [*BowOfAtlas*](./music/#bowofatlas).
+As a musician, I compose and produce various types of music. I started playing the keyboard at 6, and started writing songs at 13. Over the years I published some of my works in the name of [*BowOfAtlas*](./music/#bowofatlas).
 
 
 <!--
