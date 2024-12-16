@@ -9,7 +9,7 @@ hasCJKLanguage = true
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
 # 主题选择
-theme = "meme-theme"
+theme = "meme"
 
 # `hugo new` 新建文章自动打开的文本编辑器
 newContentEditor = ""
@@ -100,7 +100,7 @@ uglyURLs = false
     # 昵称
     nickname = "Irislucent"
     # 邮箱
-    email = "yuxuanw2@andrew.cmu.edu"
+    email = "wu_yuxuan201@163.com"
     # 座右铭或简介
     # motto = "MS·CMU Music Tech"
     motto = "Sing to the moon and the stars will shine"

@@ -3,22 +3,22 @@
         <div class="info">
             <div class="avatar" style="border-radius:0%; overflow:hidden;">
                 <!-- TODO get the circle mask done above -->
-                <img src="{{ .Site.Author.avatar }}" alt="portrait">
+                <img src="{{ .Site.Params.author.avatar }}" alt="portrait">
             </div>
             <div class="motto">
-                <span class="myname">{{ .Site.Author.name }}</span><br/>
-                <span>{{ .Site.Author.motto }}</span><br/>
+                <span class="myname">{{ .Site.Params.author.name }}</span><br/>
+                <span>{{ .Site.Params.author.motto }}</span><br/>
             </div>
             <div class="me" id="me">
-                <a class="myicon" href="{{ .Site.Author.github }}" target="_blank">
+                <a class="myicon" href="{{ .Site.Params.author.github }}" target="_blank">
                     <span id="github" class="icon"></span>
                     <span class="github-info">Github</span>
                 </a>
-                <a class="myicon" href="mailto:{{ .Site.Author.email }}" target="_blank">
+                <a class="myicon" href="mailto:{{ .Site.Params.author.email }}" target="_blank">
                     <span id="email" class="icon"></span>
                     <span>Email</span>
                 </a>
-                <!-- <a class="myicon linkedin" href="{{ .Site.Author.linkedin }}" target="_blank">
+                <!-- <a class="myicon linkedin" href="{{ .Site.Params.author.linkedin }}" target="_blank">
                     <span id="linkedin" class="icon"></span>
                     <span id="linkedin-info">Linkedin</span>
                 </a> -->
