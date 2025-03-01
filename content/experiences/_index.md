@@ -20,7 +20,7 @@ draft: false
             <div class="tl-stamp">September 2023 - Now</div>
             <div class="tl-content">Research on self-supervised learning and interpretable representation learning</div>
             <img src="nanjing_ssl.png" width=400 style="margin:0;" />
-            <div class="my-caption">Giving a lecture on self-supervised learning at Nanjing University of Arts, June 2024</div>
+            <div class="my-caption">Giving a research talk about self-supervised learning at Nanjing University of Arts, June 2024</div>
         </li>
         <br />
         <div class="tl-stamp">August 2023</div>
