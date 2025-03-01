@@ -37,7 +37,7 @@
         font-weight: 700;
         color: #94B2EF; }
         .card .card-image {
-        height: 200px;
+        height: 320px;
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat; }
@@ -67,9 +67,10 @@
             color: #222222; }
         .card .options .fa {
         margin-right: .25rem; }
-    
+
+
     .button {
-        display: block;
+        display: inline-block;
         font-size: 1rem;
         background: #F06292;
         border: 1px solid #F06292;

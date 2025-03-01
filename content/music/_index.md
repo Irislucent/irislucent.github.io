@@ -3,6 +3,32 @@ title: "Yuxuan Wu - Music"
 date: 2022-10-03T08:45:26-04:00
 draft: false
 ---
+<a id="bowofatlas"></a>
+
+## BowOfAtlas
+I publish music in the name of *BowOfAtlas* starting from 2014.
+- [Spotify Page](https://open.spotify.com/artist/7u6TOEKFO20LfGibgidFRV?si=44gD6Im0Tai8xL1sFXrRVw&utm_source=copy-link)
+- [Apple Music Page](https://music.apple.com/us/artist/bowofatlas/1474860092)
+- [Amazon Music Page](https://music.amazon.com/artists/B07RPL8DGW/bowofatlas)
+- [QQ Music Page](https://c.y.qq.com/base/fcgi-bin/u?__=kyfI2cIedHE3)
+- [NetEase Music Page](https://music.163.com/#/artist?id=1131005)
+
+###### Albums / Mini-albums:
+<table>
+    <tr>
+        <td>Fallen Florets (2024)<img src="fallen_florets_cover_smaller.jpeg" width=300 style="margin:0; border:0;" /></td>
+        <td>CTcity (Original Game Soundtrack) (2024)<img src="ctcity_cover_v4.jpeg" width=300 style="margin:0; border:0;" /></td>
+    </tr>
+    <tr>
+        <td>Evanescent Boundaries (2022)<img src="eb.jpg" width=300 style="margin:0; border:0;" /></td>
+        <td>Previous Track, Pause (2020)<img src="ptp.jpg" width=300 style="margin:0; border:0;" /></td>
+    </tr>
+    <tr>
+        <td>A Glass of Clouds (2019)<img src="agoc.jpg" width=300 style="margin:0; border:0;" /></td>
+        <td>The Cold Fish Logbook (2018)<img src="tcfl.jpg" width=300 style="margin:0; border:0;" /></td>
+    </tr>
+</table>
+
 ## AI Song Contest 2022
 
 Our team ***3+i*** participated in AI Song Contest 2022 with our music ***A to I***.  
@@ -27,26 +53,4 @@ Learn more about our human-AI interation process in creating this song at our [*
 During my undergrad years (2017-2021), I wrote several songs for school galas as the major musician of **SJTU Art Center**.
 
 - [Follow our podcast at NetEase Cloud Music!](http://music.163.com/radio?id=526839633)
-
-
-<a id="bowofatlas"></a>
-
-## BowOfAtlas
-I publish music in the name of *BowOfAtlas* starting from 2014.
-- [Spotify Page](https://open.spotify.com/artist/7u6TOEKFO20LfGibgidFRV?si=44gD6Im0Tai8xL1sFXrRVw&utm_source=copy-link)
-- [Apple Music Page](https://music.apple.com/us/artist/bowofatlas/1474860092)
-- [QQ Music Page](https://c.y.qq.com/base/fcgi-bin/u?__=kyfI2cIedHE3)
-- [NetEase Music Page](https://music.163.com/#/artist?id=1131005)
-
-Recent Mini Albums:
-<table>
-    <tr>
-        <td><img src="eb.jpg" width=300 style="margin:0; border:0;" /></td>
-        <td><img src="ptp.jpg" width=300 style="margin:0; border:0;" /></td>
-    </tr>
-    <tr>
-        <td><img src="agoc.jpg" width=300 style="margin:0; border:0;" /></td>
-        <td><img src="tcfl.jpg" width=300 style="margin:0; border:0;" /></td>
-    </tr>
-</table>
 

@@ -9,18 +9,50 @@ draft: false
   <link rel="stylesheet" href="card.css" media="all">
 </head>
 
-
+<!-- ## Variance-versus-invariance -->
+<div class="card">
+    <div class="card-image" style="background-image: url(v3.png)"></div>
+    <div class="card-content">
+        <h1>Variance Versus Invariance</h1>
+        <p>We contribute an unsupervised method V3 (variance-versus-invariance) that learns disentangled content and style representations from sequences of observations. Unlike most methods that rely on domain-specific labels or knowledge, our method is based on the domain-general statistical differences between content and style --- content varies more among different fragments within a sample but maintains an invariant vocabulary across data samples, whereas style remains relatively invariant within a sample but exhibits more significant variation across different samples. V3 outperforms existing unsupervised methods in disentanglement and surpasses supervised models in out-of-distribution generalization under few-shot adaptation. Also, the learned content codebook exhibits symbolic-level interpretability, aligning machine representations closely with human knowledge.</p>
+        <div class="card-details">
+        <div class="card-details-inner">
+            <div class="read-more">
+            <a class="button" href="https://arxiv.org/abs/2407.03824">Paper</a>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+<br />
 
 <!-- ## Motif Representation Learning, Master Thesis -->
 <div class="card">
     <div class="card-image" style="background-image: url(motif.png)"></div>
     <div class="card-content">
-        <h1>Motif-based Music Representation Learning</h1>
+        <h1>Motif-Centric Music Representation Learning</h1>
         <p>The formation of music structure heavily relies on repetitions and variations of music motifs. Understanding the manifestations and behaviors of these motifs is crucial for effective music structure analysis and high-quality automatic music composition. However, capturing music motifs' implicit nature is often challenging. In this study, we employ deep learning techniques to explore an efficacious method for learning robust representations of music motifs.</p>
         <div class="card-details">
         <div class="card-details-inner">
             <div class="read-more">
-            <a class="button" href="">Building...</a>
+            <a class="button" href="https://arxiv.org/abs/2309.10597">Paper</a>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+<br />
+
+<!-- ## SingStyle -->
+<div class="card">
+    <div class="card-image" style="background-image: url(singstyle.png)"></div>
+    <div class="card-content">
+        <h1>SingStyle111: A Multilingual Singing Dataset with Style Transfer</h1>
+        <p>Singing voice research has long lacked publicly accessible data, especially in language and style diversity. We introduce SingStyle111, a studio-quality singing dataset featuring 111 songs by eight professional singers across English, Chinese, and Italian, spanning 12.8 hours. It includes bel canto opera, Chinese folk, pop, jazz, and children's singing, with 80 songs performed in multiple styles by the same singer. All recordings are clean, dry mono tracks (44.1 kHz) from professional studios, segmented into phrases with lyrics, MIDI, scores, and phoneme alignment. Acoustic features such as Mel-Spectrogram, F0 contour, and loudness curves are also provided. SingStyle111 supports various MIR tasks, including Singing Voice Synthesis, Singing Transcription, Score Following, and Singing Style Transfer.</p>
+        <div class="card-details">
+        <div class="card-details-inner">
+            <div class="read-more">
+            <a class="button" href="https://www.cs.cmu.edu/~music/shuqid/SingStyle111__A_Multilingual_Singing_Dataset_With_Style_Transfer.pdf">Paper</a>&nbsp;&nbsp;&nbsp;<a class="button" href="https://dsqvival.github.io/singstyle111/#abus">Website</a>
             </div>
         </div>
         </div>
@@ -29,7 +61,7 @@ draft: false
 <br />
 
 <!-- ## The Jazz Tutor -->
-<div class="card">
+<!-- <div class="card">
     <div class="card-image" style="background-image: url(jazztutor.jpg)"></div>
     <div class="card-content">
         <h1>The Jazz Tutor</h1>
@@ -43,7 +75,7 @@ draft: false
         </div>
     </div>
 </div>
-<br />
+<br /> -->
 
 <!-- ## Expressive Performance Generation -->
 <!-- <div class="card">

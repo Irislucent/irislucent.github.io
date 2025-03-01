@@ -13,8 +13,25 @@ draft: false
 </head>
 <body>
     <ol class="timeline">
-        <img src="icassp2023_oral.jpg" width=250 style="margin:0;" />
-        <div class="my-caption">Me giving an oral presentation at ICASSP, June 2023</div>
+        <img src="china_orchestra.png" width=360 style="margin:0;" />
+        <div class="my-caption">AI-music performance with representatives from China National Symphony Orchestra, December 2024</div>
+        <br />
+        <li class="tl-node">
+            <div class="tl-stamp">September 2023 - Now</div>
+            <div class="tl-content">Research on self-supervised learning and interpretable representation learning</div>
+            <img src="nanjing_ssl.png" width=400 style="margin:0;" />
+            <div class="my-caption">Giving a lecture on self-supervised learning at Nanjing University of Arts, June 2024</div>
+        </li>
+        <br />
+        <div class="tl-stamp">August 2023</div>
+        <div class="tl-content">Entered MBZUAI</div>
+    </ol>
+    <br />
+    <ol class="timeline">
+        <div class="tl-stamp">August 2021</div>
+        <div class="tl-content">M.Sc. in Music and Technology</div>
+        <img src="icassp2023_oral.jpg" width=300 style="margin:0;" />
+        <div class="my-caption">Oral presentation at ICASSP, June 2023</div>
         <br />
         <li class="tl-node">
             <div class="tl-stamp">February - August 2023</div>
@@ -24,8 +41,8 @@ draft: false
         <li class="tl-node">
             <div class="tl-stamp">January - May 2023</div>
             <div class="tl-content">Teaching assistant: <i>Introduction to Computer Music</i></div>
-            <img src="icm_ta.jpg" width=300 style="margin:0;" />
-            <div class="my-caption">Me giving a recitation about modulation, February 2023</div>
+            <img src="icm_ta.jpg" width=360 style="margin:0;" />
+            <div class="my-caption">Giving a computer music recitation at CMU, February 2023</div>
         </li>
         <br />
         <li class="tl-node">
@@ -36,8 +53,8 @@ draft: false
         <li class="tl-node">
             <div class="tl-stamp">August 2022 - December 2022</div>
             <div class="tl-content">Teaching assistant: <i>Machine Learning for Signal Processing</i></div>
-            <img src="mlsp_ta_2.jpg" width=300 style="margin:0;" />
-            <div class="my-caption">Me giving a lecture about HMM, November 2022</div>
+            <img src="mlsp_ta_2.jpg" width=360 style="margin:0;" />
+            <div class="my-caption">Giving a lecture about HMM at CMU, November 2022</div>
         </li>
         <br />
         <li class="tl-node">
@@ -48,7 +65,7 @@ draft: false
         <li class="tl-node">
 			<div class="tl-stamp">January - May 2022</div>
 			<div class="tl-content">Participate in <i>AI Song Contest 2022</i></div>
-            <img src="aisc2022_ceremony.jpg" width=300 style="margin:0;" />
+            <img src="aisc2022_ceremony.jpg" width=360 style="margin:0;" />
             <div class="my-caption">Speaking at AISC Ceremony, June 2022</div>
 		</li>
         <br />
@@ -58,37 +75,43 @@ draft: false
 		</li>
         <br />
         <li class="tl-node">
-			<div class="tl-stamp">November 2021 - Now</div>
+			<div class="tl-stamp">November 2021 - November 2023</div>
 			<div class="tl-content">Research on expressive performance synthesis</div>
 		</li>
         <br />
         <li class="tl-node">
 			<div class="tl-stamp">September 2021 - Janurary 2022</div>
 			<div class="tl-content">Course project: Speech anonymization with pseudo VC (Interspeech 2022)</div>
-            <a href="https://arxiv.org/abs/2209.04530">Arxiv Link</a>
-            <img src="deid_vc.jpg" width=300 style="margin:0;" />
-            <div class="my-caption">Presentation and project poster, December 2021</div>
+            <!-- <a href="https://arxiv.org/abs/2209.04530">Arxiv Link</a> -->
+            <img src="deid_vc.jpg" width=360 style="margin:0;" />
+            <div class="my-caption">Presentation at project poster, December 2021</div>
 		</li>
         <br />
         <div class="tl-stamp">August 2021</div>
-        <div class="tl-content">Entered Cargenie Mellon</div>
+        <div class="tl-content">Entered Cargenie Mellon University</div>
     </ol>
     <br /> 
     <ol class="timeline">
         <div class="tl-stamp">June 2021</div>
-        <div class="tl-content">B.Eng in Information Engineering</div>
-        <img src="studio_sjtu.jpg" width=300 style="margin:0;" />
-        <div class="my-caption">In the studio, recording for the graduation gala, June 2021</div>
+        <div class="tl-content">B.Eng. in Information Engineering</div>
+        <img src="studio_sjtu.jpg" width=360 style="margin:0;" />
+        <div class="my-caption">In the studio, recording for an SJTU gala, June 2021</div>
         <br />
         <li class="tl-node">
             <div class="tl-stamp">September 2020 - June 2021</div>
             <div class="tl-content">Bachelor thesis on a speech synthesis tool</div>
         </li>
         <br />
+        <img src="project_ming.jpg" width=360 style="margin:0;" />
+        <div class="my-caption">Presentation at CSMT, November 2020</div>
+        <br />
         <li class="tl-node">
             <div class="tl-stamp">July 2020 - July 2021</div>
             <div class="tl-content">Internship at ByteDance AI-Lab SA</div>
         </li>
+        <br />
+        <img src="welcoming.jpg" width=400 style="margin:0;" />
+        <div class="my-caption">Performance at the Freshman Welcoming Gala, June 2019</div>
         <br />
         <li class="tl-node">
 			<div class="tl-stamp">September 2019 - August 2020</div>
@@ -97,11 +120,12 @@ draft: false
         <br />
         <li class="tl-node">
 			<div class="tl-stamp">July-August 2019</div>
-			<div class="tl-content">Summer school at UC Berkeley, taking the course <i>Sound and Music Computing</i></div>
-            <div class="tl-content">My project <i>Project Ming</i> won the 2nd place at the CSMT 2020 Exhibition.</div>
-            <img src="project_ming.jpg" width=300 style="margin:0;" />
-            <div class="my-caption">Presenting <i>Project Ming</i> at CSMT, November 2020</div>
+			<div class="tl-content">Summer school at UC Berkeley, studying <i>Sound and Music Computing</i></div>
+            <!-- <div class="tl-content">My project <i>Project Ming</i> won the 2nd place at the CSMT 2020 Exhibition.</div> -->
 		</li>
+        <br />
+        <img src="seiee110.jpg" width=400 style="margin:0;" />
+        <div class="my-caption">Performance at the 110th Anniversary of School of Electronic Information and Electrical Engineering, June 2018</div>
         <br />
         <div class="tl-stamp">September 2017</div>
         <div class="tl-content">Entered Shanghai Jiao Tong University</div>
