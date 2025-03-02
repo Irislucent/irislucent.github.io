@@ -125,7 +125,7 @@ draft: false
 		</li>
         <br />
         <img src="seiee110.jpg" width=400 style="margin:0;" />
-        <div class="my-caption">Performance at the 110th Anniversary of School of Electronic Information and Electrical Engineering, June 2018</div>
+        <div class="my-caption">Performance at the 110th Anniversary of School of Electronic Information and Electrical Engineering, October 2018</div>
         <br />
         <div class="tl-stamp">September 2017</div>
         <div class="tl-content">Entered Shanghai Jiao Tong University</div>
