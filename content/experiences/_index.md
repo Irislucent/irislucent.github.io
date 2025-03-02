@@ -28,7 +28,7 @@ draft: false
     </ol>
     <br />
     <ol class="timeline">
-        <div class="tl-stamp">August 2021</div>
+        <div class="tl-stamp">August 2023</div>
         <div class="tl-content">M.Sc. in Music and Technology</div>
         <img src="icassp2023_oral.jpg" width=300 style="margin:0;" />
         <div class="my-caption">Oral presentation at ICASSP, June 2023</div>
