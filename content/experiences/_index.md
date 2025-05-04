@@ -13,14 +13,21 @@ draft: false
 </head>
 <body>
     <ol class="timeline">
+        <img src="nus_v3.jpg" width=360 style="margin:0;" />
+        <div class="my-caption">Research talk on emergent content-style disentanglement at National University of Singapore, April 2025</div>
+        <br />
+        <img src="iclr_2025.jpg" width=360 style="margin:0;" />
+        <div class="my-caption">Poster presentation at ICLR, April 2025</div>
+        <br />
         <img src="china_orchestra.png" width=360 style="margin:0;" />
         <div class="my-caption">AI-music performance with representatives from China National Symphony Orchestra, December 2024</div>
+        <br />
+        <img src="nanjing_ssl.png" width=400 style="margin:0;" />
+        <div class="my-caption">Research talk on self-supervised learning at Nanjing University of Arts, June 2024</div>
         <br />
         <li class="tl-node">
             <div class="tl-stamp">September 2023 - Now</div>
             <div class="tl-content">Research on self-supervised learning and interpretable representation learning</div>
-            <img src="nanjing_ssl.png" width=400 style="margin:0;" />
-            <div class="my-caption">Giving a research talk about self-supervised learning at Nanjing University of Arts, June 2024</div>
         </li>
         <br />
         <div class="tl-stamp">August 2023</div>
