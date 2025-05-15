@@ -23,7 +23,7 @@ draft: false
         <div class="my-caption">AI-music performance with representatives from China National Symphony Orchestra, December 2024</div>
         <br />
         <img src="nanjing_ssl.png" width=400 style="margin:0;" />
-        <div class="my-caption">Research talk on self-supervised learning at Nanjing University of Arts, June 2024</div>
+        <div class="my-caption">Research talk on self-supervised learning at Nanjing University of the Arts, June 2024</div>
         <br />
         <li class="tl-node">
             <div class="tl-stamp">September 2023 - Now</div>
