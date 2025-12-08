@@ -13,7 +13,7 @@ draft: false
 </head>
 <body>
     <ol class="timeline">
-        <img src="adart_2025.jpg" width=360 style="margin:0;" />
+        <img src="adart_2025.jpg" width=480 style="margin:0;" />
         <div class="my-caption">AI-music performance at Abu Dhabi Art, November 2025</div>
         <br />
         <!-- <img src="nus_v3.jpg" width=360 style="margin:0;" />
