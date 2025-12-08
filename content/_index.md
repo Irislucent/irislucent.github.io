@@ -7,7 +7,7 @@ draft: false
 
 Hello there - welcome to my homepage.
 
-My name is Yuxuan Wu. I'm a PhD student at [Music X Lab](http://www.musicxlab.com/#/) of Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Professor Gus Xia and Professor Bhiksha Raj.   
+My name is Yuxuan Wu. I'm a PhD candidate at [Music X Lab](http://www.musicxlab.com/#/) of Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Professor Gus Xia and Professor Bhiksha Raj.   
 
 **AI emerges not only for music but also from it.**
 My research interest lies in **self-supervised learning** and **interpretable representation learning**, as well as their applications in audio and music. The core of my research is inspired by the hierarchical nature of human perception, thinking, and communication, with music as their most intriguing manifestation. Building on this, I am dedicated to researching AI that more closely resembles human intelligence, enhancing both AI systems' effectiveness and human artistry.
