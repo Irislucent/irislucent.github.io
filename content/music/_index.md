@@ -1,5 +1,5 @@
 ---
-title: "Yuxuan Wu - Music"
+title: "Yuxuan Wu - Artwork"
 date: 2022-10-03T08:45:26-04:00
 draft: false
 ---

@@ -195,8 +195,8 @@ uglyURLs = false
         pre = "internal"
         # post = "th"
     [[menu.main]]
-        url = "/music/"
-        name = "Music"
+        url = "/artwork/"
+        name = "Artwork"
         weight = 4
         pre = "internal"
         # post = "tags"

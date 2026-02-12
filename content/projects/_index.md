@@ -9,6 +9,40 @@ draft: false
   <link rel="stylesheet" href="card.css" media="all">
 </head>
 
+<!-- ## FA Physics -->
+<div class="card">
+    <div class="card-image" style="background-image: url(fa-physics.png)"></div>
+    <div class="card-content">
+        <h1>Function Alignment between Perceptual and Analytic Dynamics</h1>
+        <p>We study how heterogeneous predictive dynamics can be preserved and coupled through bidirectional alignment at the level of functions. We consider a setting with two representations of the same process paired in time: a high-dimensional perceptual sequence and a compact analytic state sequence, each governed by its own autoregressive dynamics. Rather than collapsing them into a unified model, we align their predictive functions using lightweight adapter modules that allow each dynamics to incorporate signals from the other during rollout. We conduct experiments on two physical prediction tasks exhibiting different functional roles of the two dynamic processes, and demonstrate that function alignment significantly improves long-horizon stability during joint rollout in both perceptual and analytic domains.</p>
+        <div class="card-details">
+        <div class="card-details-inner">
+            <div class="read-more">
+            <a class="button" href="">Paper (TBD)</a>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+<br />
+
+<!-- ## Melody Reduction -->
+<div class="card">
+    <div class="card-image" style="background-image: url(amra.png)"></div>
+    <div class="card-content">
+        <h1>Automatic Melody Reduction</h1>
+        <p>Melody reduction serves not only as a tool for music analysis but also as an intermediate representation for structured music generation. Prior computational theories are not fully automatic and usually limited to the classical genre. We propose a novel and conceptually simple method for melody reduction using a graph-based representation inspired by principles from computational music theories, where the reduction process is formulated as finding the shortest path. We evaluate our algorithm on pop, folk, and classical genres, and experimental results show that the algorithm produces melody reductions that are more faithful to the original melody and more musically coherent than other common melody downsampling methods. As a downstream task, we use melody reductions to generate symbolic music variations. Experiments show that our method achieves higher quality than state-of-the-art style transfer methods.</p>
+        <div class="card-details">
+        <div class="card-details-inner">
+            <div class="read-more">
+            <a class="button" href="https://arxiv.org/pdf/2508.01571">Paper</a>&nbsp;&nbsp;&nbsp;<a class="button" href="https://auto-melody-reduction.github.io/AMRA-demo/">Website</a>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+<br />
+
 <!-- ## Variance-versus-invariance -->
 <div class="card">
     <div class="card-image" style="background-image: url(v3.png)"></div>
@@ -18,7 +52,7 @@ draft: false
         <div class="card-details">
         <div class="card-details-inner">
             <div class="read-more">
-            <a class="button" href="https://arxiv.org/abs/2407.03824">Paper</a>
+            <a class="button" href="https://arxiv.org/abs/2407.03824">Paper</a>&nbsp;&nbsp;&nbsp;<a class="button" href="https://v3-content-style.github.io/V3-demo/">Website</a>
             </div>
         </div>
         </div>
