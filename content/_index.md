@@ -9,8 +9,10 @@ Hello there - welcome to my homepage.
 
 My name is Yuxuan Wu. I'm a PhD candidate at [Music X Lab](http://www.musicxlab.com/#/) of Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Professor Gus Xia and Professor Bhiksha Raj.   
 
-**AI emerges not only for music but also from it.**
-My research interest lies in **self-supervised learning** and **interpretable representation learning**, as well as their applications in audio and music. The core of my research is inspired by the hierarchical nature of human perception, thinking, and communication, with music as their most intriguing manifestation. Building on this, I am dedicated to researching AI that more closely resembles human intelligence, enhancing both AI systems' effectiveness and human artistry.
+Humans reason about the world through multiple levels of abstraction. The same underlying reality can be perceived, described, and predicted using different representations---ranging from low-level sensory patterns to high-level symbolic structures---that often serve complementary functional roles. My research goal is building AI that reflects this **hierarchical organization of intelligence** through perception, cognition and interaction. In particular, I study how to (1) enable hierarchical and structured representations to **emerge from raw perceptual signals** under principled inductive biases, and (2) align the heterogeneous functions of these representations for **coordinated reasoning** while preserving their distinct predictive dynamics.
+
+<!-- **AI emerges not only for music but also from it.**
+My research interest lies in **self-supervised learning** and **interpretable representation learning**. The core of my research is inspired by the hierarchical nature of human perception, thinking, and communication, with music as their most intriguing manifestation. Building on this, I am dedicated to researching AI that more closely resembles human intelligence, enhancing both AI systems' effectiveness and human artistry. -->
 
 <!-- I'm a first-year PhD student in [Music X Lab](http://www.musicxlab.com/#/) at Mohamed bin Zayed University of Artificial Intelligence, supervised by Professor Gus Xia and Professor Bhiksha Raj.  
 Before I entered MBZUAI, I completed my Master's degree in Music and Technology at Carnegie Mellon University, where I was advised by Professor Roger Dannenberg. I graduated from Shanghai Jiao Tong University with a Bachelor's degree in Information Engineering, where I conducted research on speech synthesis with Professor Jie Zhu.  
