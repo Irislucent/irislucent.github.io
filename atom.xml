@@ -4,12 +4,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Yuxuan Wu</title>
     <subtitle type="html">YuxuanWu</subtitle>
-    <updated>2026-02-12T20:30:02&#43;04:00</updated>
+    <updated>2026-03-12T02:59:26&#43;04:00</updated>
     <id>https://irislucent.github.io/</id>
     <link rel="alternate" type="text/html" href="https://irislucent.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://irislucent.github.io/atom.xml" />
     <author>
-            <name>Yuxuan Wu</name>
+            <name>Yuxuan Wu (Iris)</name>
             <uri>https://irislucent.github.io/</uri>
             
                 <email>Yuxuan.Wu@mbzuai.ac.ae</email>
@@ -23,7 +23,7 @@
             <updated>2023-06-03T10:32:56&#43;04:00</updated>
             <published>2022-10-03T06:55:36-04:00</published>
             <author>
-                    <name>Yuxuan Wu</name>
+                    <name>Yuxuan Wu (Iris)</name>
                     <uri>https://irislucent.github.io/</uri>
                     <email>Yuxuan.Wu@mbzuai.ac.ae</email>
                     </author>
