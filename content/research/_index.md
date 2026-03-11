@@ -106,4 +106,4 @@ I have served as a teaching assistant in undergraduate and graduate courses span
 
 **Carnegie Mellon University (Teaching Assistant)**  
 - 11-755 / 18-797 — Machine Learning for Signal Processing  
-- 15-322 / 15-622 — Introduction to Computer Mus
+- 15-322 / 15-622 — Introduction to Computer Music
