@@ -19,7 +19,7 @@ My research is circled around the questions of:
 - How structured abstract representations can emerge from lower-level signals under principled inductive biases, a.k.a. **emergent language** on the higher z-axis;
 - How heterogeneous representations can be aligned at the function/model level for coordinated understanding, reasoning and generation, a.k.a. **function alignment** across different models.
 
-These questions are closely related to the broader topic of **self-supervised learning**, **hierarchical modeling**, **designed interpretability** and **neural-symbolic integration**. I am also interested in **audio/music AI** and **multimodality** as testbeds and application.
+These questions are closely related to the broader topics of **self-supervised learning**, **hierarchical modeling**, **designed interpretability** and **neural-symbolic integration**. I am also interested in **audio/music AI** and **multimodality** as testbeds and application.
 
 ## Publications
 
