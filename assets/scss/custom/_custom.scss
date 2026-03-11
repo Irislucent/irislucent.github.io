@@ -1,6 +1,7 @@
 /* MemE主题配置覆盖 */
 .menu-item a {
     font-size: 1.2em;
+    margin: 0 0 1em 1em;
 }
 code {
     border-radius: 4px;
@@ -329,10 +330,11 @@ details.admonition[open]>summary:after {
     }
     .main.single {
         display: flex;
-        width: 50em;
+        width: 50em; // 整个的宽度
         margin: 0 auto;
     }
     .main-inner {
+        align-items: flex-start;
         width: 36em;
     }
     // 侧栏
@@ -341,15 +343,17 @@ details.admonition[open]>summary:after {
         padding-right: 2em;
         display: block;
         max-width: 12em;
-        margin-top: 3.6em;
+        margin-top: 1em;
     }
     // 头像
     .avatar img {
-        width: 130px;
-        height: 130px;
+        width: 144px;
+        height: 144px;
         border: 1px solid #ddd;
         padding: 2px;
-        margin-left: 37px;
+        display: block;
+        margin: 0 auto 8px auto;
+        border-radius: 16%;
     }
     .myname {
         font-family: 'EB Garamond', cursive;
@@ -363,17 +367,17 @@ details.admonition[open]>summary:after {
         display: inline-block;
         padding-top: 2px;
         padding-bottom: 2px;
-        width: 100px;
+        width: 30px;
     }
     .myicon:hover {
         color: var(--color-contrast-high);
         background: var(--color-myicon);
         border-radius: 5px;
     }
-    #github svg, #email svg, #netdisk svg, #acwing svg {
+    #github svg, #email svg, #link svg, #netdisk svg, #acwing svg {
         padding-bottom: 5px;
     }
-    #github, #email, #netdisk, #acwing {
+    #github, #email, #link, #netdisk, #acwing {
         padding-right: 3px;
     }
     .motto {
@@ -383,8 +387,17 @@ details.admonition[open]>summary:after {
         padding-bottom: 5px;
         text-align: center;
     }
+    .motto2 {
+        border-top: 1px dashed var(--color-contrast-low); 
+        border-bottom: 1px dashed var(--color-contrast-low); 
+        margin-bottom: 4px;
+        padding-bottom: 5px;
+        text-align: right;
+        opacity: 0.2;
+    }
     .me {
         text-align: center;
+        font-size: 12pt;
     }
     // 新目录 吸顶效果
     .new-toc {
@@ -410,4 +423,51 @@ details.admonition[open]>summary:after {
         color: var(--color-primary);
         transition: 0s !important;
     }
+}
+blockquote {
+    border-left: 3px solid #ae46a6;
+    padding-left: 1em;
+    margin: 1.5em 0;
+    color: #ae46a6cd;
+}
+.main p{
+    text-align: left;
+    // hyphens: auto;
+    // font-size: 30pt;
+}
+.fade-image-bottom {
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    black 0%,
+    black 70%,
+    rgba(0,0,0,0.8) 80%,
+    rgba(0,0,0,0.4) 90%,
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to bottom,
+    black 0%,
+    black 70%,
+    rgba(0,0,0,0.8) 80%,
+    rgba(0,0,0,0.4) 90%,
+    transparent 100%
+  );
+}
+.fade-image-top {
+  -webkit-mask-image: linear-gradient(
+    to top,
+    black 0%,
+    black 70%,
+    rgba(0,0,0,0.8) 80%,
+    rgba(0,0,0,0.4) 90%,
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to top,
+    black 0%,
+    black 70%,
+    rgba(0,0,0,0.8) 80%,
+    rgba(0,0,0,0.4) 90%,
+    transparent 100%
+  );
 }

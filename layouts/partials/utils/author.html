@@ -9,6 +9,9 @@
     {{- with .Site.Params.author.motto -}}
         {{- $author = merge $author (dict "motto" .) -}}
     {{- end -}}
+    {{- with .Site.Params.author.motto2 -}}
+        {{- $author = merge $author (dict "motto2" .) -}}
+    {{- end -}}
     {{- with .Site.Params.author.avatar -}}
         {{- $author = merge $author (dict "avatar" .) -}}
     {{- end -}}
@@ -31,6 +34,9 @@
     {{- end -}}
     {{- with .Params.motto -}}
         {{- $author = merge $author (dict "motto" .) -}}
+    {{- end -}}
+    {{- with .Params.motto2 -}}
+        {{- $author = merge $author (dict "motto2" .) -}}
     {{- end -}}
     {{- with .Params.avatar -}}
         {{- $author = merge $author (dict "avatar" .) -}}

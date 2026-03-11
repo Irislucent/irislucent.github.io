@@ -13,7 +13,7 @@ I publish music in the name of *BowOfAtlas* starting from 2014.
 - [QQ Music Page](https://c.y.qq.com/base/fcgi-bin/u?__=kyfI2cIedHE3)
 - [NetEase Music Page](https://music.163.com/#/artist?id=1131005)
 
-###### Albums / Mini-albums:
+**Albums / Mini-albums:**
 <table>
     <tr>
         <td>Fallen Florets (2024)<img src="fallen_florets_cover_smaller.jpeg" width=300 style="margin:0; border:0;" /></td>

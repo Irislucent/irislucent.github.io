@@ -6,17 +6,21 @@
                 <img src="{{ .Site.Params.author.avatar }}" alt="portrait">
             </div>
             <div class="motto">
-                <span class="myname">{{ .Site.Params.author.name }}</span><br/>
-                <span>{{ .Site.Params.author.motto }}</span><br/>
+                <span class="myname" style="font-weight: 500; font-size:16pt">{{ .Site.Params.author.name }}</span><br/>
+                <span style="font-size: 12pt;">{{ .Site.Params.author.motto | safeHTML}}</span><br/>
             </div>
             <div class="me" id="me">
-                <a class="myicon" href="{{ .Site.Params.author.github }}" target="_blank">
+                <a class="myicon" href="{{ .Site.Params.author.github }}" target="_blank" title="Github">
                     <span id="github" class="icon"></span>
-                    <span class="github-info">Github</span>
-                </a>
-                <a class="myicon" href="mailto:{{ .Site.Params.author.email }}" target="_blank">
+                    <!-- <span class="github-info">Github</span> -->
+                </a>&nbsp;
+                <a class="myicon" href="{{ .Site.Params.author.cv }}" target="_blank" title="Curriculum Vitae">
+                    <span id="link" class="icon"></span>
+                    <!-- <span>CV</span> -->
+                </a>&nbsp;
+                <a class="myicon" href="mailto:{{ .Site.Params.author.email }}" target="_blank" title="Email">
                     <span id="email" class="icon"></span>
-                    <span>Email</span>
+                    <!-- <span>Email</span> -->
                 </a>
                 <!-- <a class="myicon linkedin" href="{{ .Site.Params.author.linkedin }}" target="_blank">
                     <span id="linkedin" class="icon"></span>
@@ -25,6 +29,8 @@
                 <script>
                     let github = document.getElementById('github');
                     github.innerHTML = '{{ .Site.Data.SVG.github }}';
+                    let link = document.getElementById('link');
+                    link.innerHTML = '{{ .Site.Data.SVG.link }}';
                     let email = document.getElementById('email');
                     email.innerHTML = '{{ .Site.Data.SVG.email }}';
                     let acwing = document.getElementById('acwing');
@@ -34,12 +40,13 @@
                 </script>
             </div>
         </div>
-        <!-- <div class="new-toc">
+        <div class="new-toc">
             {{ $enableTOC := .Params.toc | default .Site.Params.enableTOC -}}
                 {{- if $enableTOC -}}
+                    <br>
                     {{- partial "utils/toc.html" . -}}
                 {{- end -}}
-        </div> -->
+        </div>
     </div>
 
     <div class="main-inner">

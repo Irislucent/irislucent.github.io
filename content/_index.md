@@ -4,12 +4,38 @@ date: 2022-10-02T07:45:57-04:00
 draft: false
 ---
 
+Hello there — welcome to my homepage.
 
-Hello there - welcome to my homepage.
+I am Yuxuan Wu, a **PhD candidate in Machine Learning** at **MBZUAI**, advised by Professor Gus Xia and Professor Bhiksha Raj. My work focuses on **hierarchical representation learning** and **self-supervised learning**, with applications in structured perceptual domains such as vision, audio and music.
+
+My research asks a simple yet basic question:
+
+>How is intelligence structured across levels of abstraction?
+
+![A hierarchical organization of intelligence](./images/tian.png)
+<!-- <img src="/images/tian.png" class="fade-image-bottom"> -->
+
+Humans perceive, describe, and predict the same underlying reality through multi-modal representations that range from low-level sensory patterns (e.g. video and audio) to high-level symbolic systems (e.g. language, mathematics and music notations). These heterogeneous representations serve complementary functional roles. I aim to build AI systems that reflect this hierarchical organization of intelligence. In particular, I investigate:
+
+- How hierarchical and structured representations can emerge from raw perceptual signals under principled inductive biases; and
+- How heterogeneous representations can be aligned at the function/model level for coordinated understanding, reasoning and generation.
+
+![A hierarchical organization of intelligence](./images/di.png)
+<!-- <img src="/images/di.png" class="fade-image-top"> -->
+<!-- &nbsp; -->
+
+Outside of research, I am also a music artist. I create, experiment, and evolve through sound, treating music as both a language of expression and a landscape for exploration. I started playing the keyboard at 6, and started producing songs at 13. Over the years I publish most of my works in the name of [*BowOfAtlas*](./music/#bowofatlas).
+
+<!-- Hello there - welcome to my homepage.
 
 My name is Yuxuan Wu. I'm a PhD candidate at [Music X Lab](http://www.musicxlab.com/#/) of Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Professor Gus Xia and Professor Bhiksha Raj.   
 
-Humans reason about the world through multiple levels of abstraction. The same underlying reality can be perceived, described, and predicted using different representations---ranging from low-level sensory patterns to high-level symbolic structures---that often serve complementary functional roles. My research goal is building AI that reflects this **hierarchical organization of intelligence** through perception, cognition and interaction. In particular, I study how to (1) enable hierarchical and structured representations to **emerge from raw perceptual signals** under principled inductive biases, and (2) align the heterogeneous functions of these representations for **coordinated reasoning** while preserving their distinct predictive dynamics.
+Humans reason about the world through multiple levels of abstraction. The same underlying reality can be perceived, described, and predicted using different representations---ranging from low-level sensory patterns to high-level symbolic structures---that often serve complementary functional roles. My research goal is building AI that reflects this **hierarchical organization of intelligence** through perception, cognition and interaction. In particular, I study how to (1) enable hierarchical and structured representations to **emerge from raw perceptual signals** under principled inductive biases, and (2) align the heterogeneous functions of these representations for **coordinated reasoning** while preserving their distinct predictive dynamics. -->
+
+
+
+
+
 
 <!-- **AI emerges not only for music but also from it.**
 My research interest lies in **self-supervised learning** and **interpretable representation learning**. The core of my research is inspired by the hierarchical nature of human perception, thinking, and communication, with music as their most intriguing manifestation. Building on this, I am dedicated to researching AI that more closely resembles human intelligence, enhancing both AI systems' effectiveness and human artistry. -->
@@ -25,7 +51,7 @@ My research interest lies in the field of music AI, including AI music generatio
 <!-- My research interest lies in the field of computer music, including AI music generation, music information retrieval and music representation learning, hoping to not only promote applications of AI in music appreciation and creation, but also broaden the horizon of AI by and for humanity. -->
 <!-- Currently I'm working on analysing and predicting the composing techniques of pop piano accompaniment, hoping that it can help improve modelling the underlying structures in polyphonic music. -->
 
-As a music artist, I create, experiment, and evolve through sound, treating music as both a language of expression and a landscape for exploration. I started playing the keyboard at 6, and started producing songs at 13. Over the years I publish most of my works in the name of [*BowOfAtlas*](./music/#bowofatlas).
+
 
 
 <!--
@@ -36,4 +62,4 @@ If you're interested, you can view some of my music works in the name of BowOfAt
 By the way I'm proud to stand as a MtF. As I got some vital help and care from those in China when I was frustrated and confused the most, I pay attention to and am willing to attend LGBTQ+ nonprofit organizations because millions of brothers and sisters are still there in need, and that we should stand together to make the world a more diverse and colorful place.
 -->
 
-<a href="./cv/Yuxuan_Wu_CV_20260115.pdf"><font color=#f06292>Curriculum Vitae</font></a>
+<!-- <a href="./cv/Yuxuan_Wu_CV_20260115.pdf"><font color=#f06292>Curriculum Vitae</font></a> -->
