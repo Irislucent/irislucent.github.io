@@ -197,7 +197,7 @@ uglyURLs = false
     [[menu.main]]
         url = "/artwork/"
         name = "Artwork"
-        weight = 4
+        weight = 3
         pre = "internal"
         # post = "tags"
     # [[menu.main]]
@@ -207,7 +207,7 @@ uglyURLs = false
     #     pre = "internal"
     #     # post = "user-circle"
     [[menu.main]]
-        weight = 5
+        weight = 4
         identifier = "theme-switcher"
     # [[menu.main]]
     #     weight = 7
@@ -399,7 +399,7 @@ uglyURLs = false
     # 列表页面
 
     # 宽度
-    listWidth = 36
+    listWidth = 50
     # 说明：如果留空（""），则用 42 作为默认值
     #      单位：em
 

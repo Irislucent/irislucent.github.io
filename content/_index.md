@@ -8,7 +8,7 @@ Hello there — welcome to my homepage.
 
 I am Yuxuan Wu, a **PhD candidate in Machine Learning** at **MBZUAI**, advised by Professor Gus Xia and Professor Bhiksha Raj. My work focuses on **hierarchical representation learning** and **self-supervised learning**, with applications in structured perceptual domains such as vision, audio and music.
 
-My research asks a simple yet basic question:
+My [research](./research/) asks a simple yet basic question:
 
 >How is intelligence structured across levels of abstraction?
 
@@ -24,7 +24,7 @@ Humans perceive, describe, and predict the same underlying reality through multi
 <!-- <img src="/images/di.png" class="fade-image-top"> -->
 <!-- &nbsp; -->
 
-Outside of research, I am also a music artist. I create, experiment, and evolve through sound, treating music as both a language of expression and a landscape for exploration. I started playing the keyboard at 6, and started producing songs at 13. Over the years I publish most of my works in the name of [*BowOfAtlas*](./music/#bowofatlas).
+Outside of research, I am also a music artist. I create, experiment, and evolve through sound, treating music as both a language of expression and a landscape for exploration. I started playing the keyboard at 6, and started making music at 13. Over the years I publish most of my works in the name of [*BowOfAtlas*](./artwork/#bowofatlas).
 
 <!-- Hello there - welcome to my homepage.
 
