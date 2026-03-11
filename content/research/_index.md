@@ -1,5 +1,5 @@
 ---
-title: "Yuxuan Wu - Projects"
+title: "Yuxuan Wu - Research"
 date: 2022-10-03T08:45:26-04:00
 draft: false
 ---
@@ -16,8 +16,8 @@ My research investigates how structured abstractions arise and organize themselv
 ![Missing](./hierarchy.png)(Natural language is not shown here, as it is a System-2 conglomeration of all.)
 
 My research is circled around the questions of:
-- How structured abstract representations can emerge from lower-level signals under principled inductive biases, a.k.a. **emergent language** on the higher z-axis;
-- How heterogeneous representations can be aligned at the function/model level for coordinated understanding, reasoning and generation, a.k.a. **function alignment** across different models.
+- How structured abstract representations can emerge from lower-level signals under principled inductive biases, a.k.a. emergent language on the higher z-axis;
+- How heterogeneous representations can be aligned at the function/model level for coordinated understanding, reasoning and generation, a.k.a. function alignment** across different model
 
 These questions are closely related to the broader topics of **self-supervised learning**, **hierarchical modeling**, **designed interpretability** and **neural-symbolic integration**. I am also interested in **audio/music AI** and **multimodality** as testbeds and application.
 
