@@ -74,7 +74,7 @@ China Patent, 2022
 
 ## Invited Talks
 
-- **Towards Human-Like AI by Building Hierarchical Languages of Thought**
+- **Towards Human-Like AI by Building Hierarchical Languages of Thought**  
 AI Art Group, Beijing Institute of General Artificial Intelligence — April 2026
 
 - **Emergent Language of Thought in AI: The Birth of Symbols & The Rise of Structure**  
