@@ -6,7 +6,7 @@ draft: false
 
 Hello there — welcome to my homepage.
 
-I am Yuxuan Wu, a **PhD candidate in Machine Learning** at **MBZUAI**, advised by Professor Gus Xia and Professor Bhiksha Raj. My work focuses on **hierarchical representation learning** and **self-supervised learning**, with applications in structured perceptual domains such as vision, audio and music.
+I am Yuxuan Wu, a **PhD candidate in Machine Learning** at **MBZUAI**, advised by Professor Gus Xia and Professor Bhiksha Raj. My work focuses on **hierarchical representation learning** and **self-supervised learning**, with applications in structured perceptual domains such as music and vision.
 
 My [research](./research/) asks a simple yet basic question:
 

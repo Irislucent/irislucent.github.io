@@ -26,7 +26,7 @@ These questions are closely related to the broader topics of **self-supervised l
 - **Bridging Perceptual and Analytic Dynamics via Function Alignment**  
 **Yuxuan Wu**, Gus Xia  
 ICLR 2026 Re-Align Workshop  
-[Paper](https://openreview.net/forum?id=TuuyJZrDm5) · [Code (TBD)](#)
+[Paper](https://openreview.net/forum?id=TuuyJZrDm5) · [Demo](https://irislucent.github.io/PA-Function-Alignment-Demo/)
 
 - **Emergence of Symbolic Language from Perception through Physical Symmetry**  
 Xuanjie Liu*, **Yuxuan Wu***, Ziyu Wang, Gus Xia  
@@ -74,6 +74,9 @@ China Patent, 2022
 
 ## Invited Talks
 
+- **Towards Human-Like AI by Building Hierarchical Languages of Thought**
+AI Art Group, Beijing Institute of General Artificial Intelligence — April 2026
+
 - **Emergent Language of Thought in AI: The Birth of Symbols & The Rise of Structure**  
 Institute for Math & AI, Wuhan University — December 2025
 
@@ -107,3 +110,12 @@ I have served as a teaching assistant in undergraduate and graduate courses span
 **Carnegie Mellon University (Teaching Assistant)**  
 - 11-755 / 18-797 — Machine Learning for Signal Processing  
 - 15-322 / 15-622 — Introduction to Computer Music
+
+## Academic Service
+
+I have served as a reviewer for:
+- NeurIPS
+- ISMIR
+- ICLR Re-Align Workshop
+- ICLR RSI Workshop
+- ISMIR LLM4Music
