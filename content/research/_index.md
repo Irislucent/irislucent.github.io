@@ -28,7 +28,7 @@ These questions are closely related to the broader topics of **self-supervised l
 ICLR 2026 Re-Align Workshop  
 [Paper](https://openreview.net/forum?id=TuuyJZrDm5) · [Demo](https://irislucent.github.io/PA-Function-Alignment-Demo/)
 
-- **Emergence of Symbolic Language from Perception through Physical Symmetry**  
+- **Emergence of Symbolic Proto-Language from Perception through Physical Symmetry**  
 Xuanjie Liu*, **Yuxuan Wu***, Ziyu Wang, Gus Xia  
 Under Review  
 [Paper (TBD)](#) · [Code (TBD)](#)
@@ -70,7 +70,7 @@ INTERSPEECH 2022
 
 - **A Method for Music Texture Generation Based on Markov Chains**  
 Xia Liang, Yuan Wan, **Yuxuan Wu**, Bilei Zhu, Zejun Ma  
-China Patent, 2022
+China Patent ZL202210604599.4, 2022
 
 ## Invited Talks
 
